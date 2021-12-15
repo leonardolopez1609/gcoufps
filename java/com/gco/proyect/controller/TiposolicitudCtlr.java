@@ -1,0 +1,15 @@
+package com.gco.proyect.controller;
+
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+
+
+@RestController
+@RequestMapping("tiposolicitud")
+public class TiposolicitudCtlr {
+	
+
+
+}
